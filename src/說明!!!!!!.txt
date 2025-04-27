@@ -1,0 +1,14 @@
+下載node.js
+https://nodejs.org/zh-tw
+
+開命令提示字元 
+
+路徑cd/desktop/se
+
+npm run dev
+
+http://localhost:5173
+
+表單資料填一填
+
+邀請函email自己信箱試試看
